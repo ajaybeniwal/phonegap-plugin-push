@@ -64,6 +64,7 @@ var PushNotification = function(options) {
 
 /**
  * Unregister from push notifications
+* Testing plugin process modification 
  */
 
 PushNotification.prototype.unregister = function(successCallback, errorCallback, options) {
